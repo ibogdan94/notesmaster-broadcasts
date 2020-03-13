@@ -1,0 +1,29 @@
+{
+  "name": "notesmaster-broadcasts",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Web",
+    "Audio"
+  ],
+  "author": {
+    "name": "Bogdan Ivanov",
+    "email": "bogdan999ivanov@gmail.com"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "uuid": "^3.3.2",
+    "wrtc": "^0.4.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "tape": "^4.10.0"
+  }
+}
